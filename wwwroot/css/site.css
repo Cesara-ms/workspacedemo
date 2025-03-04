@@ -34,3 +34,21 @@ body {
 .main-content {
   margin-left: 200px;
 }
+
+#clock {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 20px;
+}
+
+.hours {
+  color: red;
+}
+
+.minutes {
+  color: green;
+}
+
+.seconds {
+  color: blue;
+}
